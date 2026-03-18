@@ -172,7 +172,7 @@ having min(price)<10;
 <img width="653" height="454" alt="image" src="https://github.com/user-attachments/assets/c52deba0-d093-4409-add0-8a776e8d3325" />
 
 
-<img width="1919" height="1151" alt="Screenshot 2025-11-18 102026" src="https://github.com/user-attachments/assets/d63c2306-b027-49f2-b740-cb36771ba5be" />
+<img width="1919" height="1150" alt="Screenshot 2026-03-16 140000" src="https://github.com/user-attachments/assets/136fbcf4-1e8a-4fa9-9f90-e0553b905081" />
 
 
 ## RESULT
