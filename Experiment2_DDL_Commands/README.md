@@ -272,7 +272,8 @@ SELECT ProductID,ProductName,Price,Stock from Discontinued_products;
 
 <img width="904" height="233" alt="image" src="https://github.com/user-attachments/assets/4318f0fb-e903-4661-a100-02e8e106ecee" />
 
-<img width="1919" height="1147" alt="image" src="https://github.com/user-attachments/assets/222dae50-d812-47f7-84d1-7dbd47556bbd" />
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/d1dac26e-513c-4c63-a1c9-f394cac23046" />
+
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
